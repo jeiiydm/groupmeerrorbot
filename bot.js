@@ -32,7 +32,7 @@ function postMessage() {
     path: '/v3/bots/post',
     method: 'POST'
   };
-  var j = 82;
+  var j = 28;
   var i = getRandomInt(0, j);
   switch(i){
 	case 0:
