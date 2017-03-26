@@ -35,7 +35,7 @@ function postMessage() {
 	"attachments" : [
     {
       "type"  : "image",
-      "url"   : "https://i.groupme.com/500x381.png.46727e60ac1b447aa4b07a685077c88d"
+      "url"   : "https://i.groupme.com/500x381.png.46727e60ac1b447aa4b07a685077c88d.large"
     }
   ]
   };
