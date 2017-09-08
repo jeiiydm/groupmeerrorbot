@@ -5,7 +5,7 @@ var botID = process.env.BOT_ID;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
-      botRegex = /gort/;
+      botRegex = /3/;
 
   if(request.text && botRegex.test(request.text.toLowerCase())) {
     this.res.writeHead(200);
@@ -21,7 +21,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = 'error_code.cpp:8:89: instantiated from here /usr/include/c++/4.6/bits/stl_algo.h:162:4: error: no match for ‘operator==’ in ‘__first.__gnu_cxx::__normal_iterator::operator* [with _Iterator = std::vector*, _Container = std::vector >, __gnu_cxx::__normal_iterator::reference = std::vector&]() == __val’ /usr/include/c++/4.6/bits/stl_algo.h:162:4: note: candidates are: /usr/include/c++/4.6/bits/stl_pair.h:201:5: note: template bool std::operator==(const std::pair&, const std::pair&) std::vector&) UNINSTALL';
+  botResponse = '<3';
 
   options = {
     hostname: 'api.groupme.com',
