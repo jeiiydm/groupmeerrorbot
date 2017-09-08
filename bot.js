@@ -21,7 +21,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = '<3';
+  botResponse = '<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3\n<3';
 
   options = {
     hostname: 'api.groupme.com',
